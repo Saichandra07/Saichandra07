@@ -75,25 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Saichandra07&show_icons=true&count_private=true&bg_color=0A0A0F&title_color=E63946&icon_color=FFB700&text_color=F0F0F0&border_color=2A2A3A&hide_border=false" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saichandra07&layout=compact&count_private=true&bg_color=0A0A0F&title_color=E63946&text_color=F0F0F0&border_color=2A2A3A" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 👤 About Me
 
 - 🔨 I build full-stack systems end to end — Spring Boot REST APIs, React frontends, shipped to production
